@@ -1,4 +1,4 @@
-Oficcial DOI:[![DOI](https://zenodo.org/badge/1227904828.svg)](https://doi.org/10.5281/zenodo.20001997)
+Oficcial DOI: 10.5281/zenodo.20001998
 # Mathematics of Infinity: The Boghian Model
 
 > **The official repository for the Daniel Silviu Boghian Model: A new paradigm in pure mathematics defining the closed-loop convergence of infinity and the n * n' = 1 symmetry.**
