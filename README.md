@@ -25,4 +25,12 @@ The Boghian Mathematics can be applied in:
 ---
 
 ### License
-This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Copyright (c) 2026 Daniel Silviu Boghian
+
+Terms summary:
+- **Attribution (BY):** You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **NonCommercial (NC):** You may not use the material for commercial purposes.
+- **NoDerivatives (ND):** If you remix, transform, or build upon the material, you may not distribute the modified material.
